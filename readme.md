@@ -5,3 +5,5 @@
 $ npm install
 $ SLACK_BOT_TOKEN=paste_your-token_here node index.js
 ```
+
+3. Flip a table `(╯°□°)╯︵ ┻━┻ `
